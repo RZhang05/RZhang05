@@ -4,16 +4,6 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RZhang05&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RZhang05&theme=radical" alt="GitHub Activity Graph" height="150"/>
-</div>
-
----
-
 <!-- Badges and quick info -->
 <div>
 <p align="center">
